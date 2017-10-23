@@ -20,7 +20,7 @@
 
 ![alt text](https://image.ibb.co/b3V8gR/out.gif)
 
-## Command and your functions
+## Commands and your functions
 
 | Command         | Function               |
  ---------------- | -----------------------|
