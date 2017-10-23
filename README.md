@@ -6,6 +6,12 @@
 
 ![alt text](https://i.stack.imgur.com/1wPcg.png)
 
+**Steps:**
+
+ * Create a repository local
+ * Modify your files or add new files
+ * Add your files and commit
+ * Push you repo for a remote repository
 
 
 
@@ -20,7 +26,7 @@
  ---------------- | -----------------------|
 |  `git init`     | Init a repo git locally|
 | `git remote add <yourepo>` |  Add a remote repo|
-| `git add`           | Add itens and changes in your files | 
+| `git add`           | Add itens and changes in your files |
 | `git commit` |  Add a description for your changes|
 | `git push` |  Add you content for remote repo |
 
