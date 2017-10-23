@@ -9,7 +9,7 @@
 **Steps:**
 
  * Create a repository local
- * Modify your files or add new files
+ * Modify your files or create new files
  * Add your files and commit
  * Push you repo for a remote repository
 
