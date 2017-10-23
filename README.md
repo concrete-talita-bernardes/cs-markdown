@@ -17,8 +17,11 @@
 
 **Example:**
 
+<div style="text-align:center" markdown="1">
 
-->![alt text](https://image.ibb.co/b3V8gR/out.gif)<-
+![alt text](https://image.ibb.co/b3V8gR/out.gif)
+
+</div>
 
 ## Commands and your functions
 
