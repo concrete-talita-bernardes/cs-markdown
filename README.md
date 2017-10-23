@@ -16,13 +16,13 @@
 
 ## Command and your functions
 
-   Command                       | Function              |
- ----------------- | ----------------------------  ------------------
-  `git init`            | Init a repo git locally
- `git remote add <yourepo>` |  Add a remote repo
- `git add`           | Add itens and changes in your files  
- `git commit` |  Add a description for your changes
- `git push` |  Add you content for remote repo
+| Command         | Function               |
+ ---------------- | -----------------------|
+|  `git init`     | Init a repo git locally|
+| `git remote add <yourepo>` |  Add a remote repo|
+| `git add`           | Add itens and changes in your files | 
+| `git commit` |  Add a description for your changes|
+| `git push` |  Add you content for remote repo |
 
 
 
