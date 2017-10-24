@@ -44,8 +44,9 @@ It's necessary to create a repo in github or bitbucket
 **Commands:**
 
 ```
-git remote add origin https://github.com/user/repo.git
+
 git init
+git remote add origin https://github.com/user/repo.git
 touch file
 git add file
 git commit -m "some comment about file"
