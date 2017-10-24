@@ -8,7 +8,7 @@
 
 **Steps:**
 
- * Create a repository local
+ * Create a repository local and add remote repository
  * Modify your files or create new files
  * Add your files and commit
  * Push you repo for a remote repository
@@ -44,6 +44,7 @@ It's necessary to create a repo in github or bitbucket
 **Commands:**
 
 ```
+git remote add origin https://github.com/user/repo.git
 git init
 touch file
 git add file
